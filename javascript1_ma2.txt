@@ -1,10 +1,13 @@
 //MODULE ASSIGNMENT 2 - LEVEL 1
 
 1. What is a function literal?
+a function literal is an expression to define an unnamed function.
 
 2. What is the constructor?
+is a method that returns an instance of an object
 
 3. What does the return statement do?
+returns a value from a function.
 
 4. What will be written to the console from this function:
 		function myFunction(){
@@ -13,5 +16,9 @@
 		}
 		myFunction();
 
+This would return - inside my function
 
 5. Briefly describe scope in JavaScript.
+You have 2 types of scopes, Global and Local.
+Global scopes allows your variables to be accessed everywhere in your code
+Local scopes limits your access to the variable inside for example a function.
